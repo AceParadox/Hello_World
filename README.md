@@ -34,6 +34,8 @@ GIF created with Recordit
 ## Notes
 
 A challenge for me was to get the project onto Github. It asked for a token and I had no idead I had to generate one.
+Github says there are two contributors but the other contributor was my first Github that it was signed in to on Github Desktop. I'm not sure
+how to fix it but they are both me.
 
 ## License
 
